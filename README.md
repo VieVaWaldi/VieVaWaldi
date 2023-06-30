@@ -2,25 +2,18 @@
   VieVaWaldi here :)
 </h2>
 
-I dont commit all that often when I work on my own. Currently working on an AI that learns to play 3D first person shooters.
+Currently working on an AI that learns to play 3D first person shooters. I dont commit all that often when I work on my own though. 
 
-<!--
-**VieVaWaldi/VieVaWaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### tl;dr me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love to build everything and i love it even more to combine that with AI, especially RL. Currently working at Salesforce and writing my master thesis at the FSU Jena. 
 
 ### GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VieVaWaldi&theme=highcontrast&show_icons=true)
+<div align="center">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VieVaWaldi&theme=highcontrast&show_icons=true)  
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VieVaWaldi&hide_progress=true&theme=highcontrast)
+<div align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VieVaWaldi&hide_progress=true&theme=highcontrast)
+</div>
