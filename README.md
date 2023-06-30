@@ -10,10 +10,7 @@ I love to build everything and i love it even more to combine that with AI, espe
 
 ### GitHub Stats
 
-<div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VieVaWaldi&theme=highcontrast&show_icons=true)  
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VieVaWaldi&theme=highcontrast&show_icons=true)
 
-<div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VieVaWaldi&hide_progress=true&theme=highcontrast)
-</div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VieVaWaldi&hide_progress=true&theme=highcontrast)
