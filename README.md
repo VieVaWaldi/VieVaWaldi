@@ -1,4 +1,8 @@
-### Hi there 👋
+<h2 align="center">
+  VieVaWaldi here :)
+</h2>
+
+I dont commit all that often when I work on my own. Currently working on an AI that learns to play 3D first person shooters.
 
 <!--
 **VieVaWaldi/VieVaWaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +22,5 @@ Here are some ideas to get you started:
 ### GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VieVaWaldi&theme=highcontrast&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VieVaWaldi&hide_progress=true)
