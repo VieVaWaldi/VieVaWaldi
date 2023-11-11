@@ -6,7 +6,7 @@ Currently working on an AI that learns to play 3D first person shooters. I dont 
 
 ### tl;dr me
 
-I love to build everything and i love it even more to combine that with AI, especially RL. Currently working as a Freelancer and writing my master thesis at the FSU Jena. 
+I love to build and i love it even more to combine that with AI, especially RL. Currently working as a Freelancer and writing my master thesis at the FSU Jena. 
 
 ### GitHub Stats
 
