@@ -2,11 +2,13 @@
   VieVaWaldi here :)
 </h2>
 
-Currently working on an AI that learns to play 3D first person shooters. I dont commit all that often when I work on my own though. 
+Currently working onon an AI that learns to play 3D first person shooters and i am also a reasearch assistant at DIGICHer. 
+
+I often forget commiting to git when I work on my own haha 
 
 ### tl;dr me
 
-I love to build and i love it even more to combine that with AI, especially RL. Currently working as a Freelancer and writing my master thesis at the FSU Jena. 
+I love to build and i love it even more to combine that with AI, especially RL.
 
 ### GitHub Stats
 
