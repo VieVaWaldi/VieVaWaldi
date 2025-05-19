@@ -8,7 +8,7 @@ Currently working as a researcher on scientometrics, understanding and analyzing
 
 <strong>Open to work </strong> as an AI Solution Freelancer.
 
-Click here to battle an AI in an FPS game: <a href="https://walterai.co">walterai.co</a>
+Click here to battle an AI in a FPS game: <a href="https://walterai.co">walterai.co</a>
 
 ### GitHub Stats
 
