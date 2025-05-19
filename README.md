@@ -2,7 +2,7 @@
   VieVaWaldi here :)
 </h2>
 
-<div style="flex items-center">
+<div align="center">
 
 Currently working as a researcher on scientometrics, understanding and analyzing the scholarly field of cultural heritage.
 
