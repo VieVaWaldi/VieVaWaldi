@@ -6,7 +6,7 @@
 
 Currently working as a researcher on scientometrics, understanding and analyzing the scholarly field of cultural heritage.
 
-And open to work as an AI Solution Freelancer.
+<strong>Open to work </strong> as an AI Solution Freelancer.
 
 Click here to play an FPS against an AI: <a href="https://walterai.co">walterai.co</a>
 
