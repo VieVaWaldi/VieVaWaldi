@@ -2,13 +2,13 @@
   VieVaWaldi here :)
 </h2>
 
-Currently working onon an AI that learns to play 3D first person shooters and i am also a reasearch assistant at DIGICHer. 
+Currently working as a researcher on scientometrics, understanding and analyzing the scholarly field of cultural heritage.
 
-I often forget commiting to git when I work on my own haha 
+And open to work as an AI Solution Freelancer.
 
-### tl;dr me
+Click here for more info:
 
-I love to build and i love it even more to combine that with AI, especially RL.
+<a href="walterai.co" \>
 
 ### GitHub Stats
 
