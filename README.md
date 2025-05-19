@@ -6,9 +6,7 @@ Currently working as a researcher on scientometrics, understanding and analyzing
 
 And open to work as an AI Solution Freelancer.
 
-Click here for more info:
-
-<a href="https://walterai.co">walterai.co</a>
+Click here to play an FPS against an AI: <a href="https://walterai.co">walterai.co</a>
 
 ### GitHub Stats
 
