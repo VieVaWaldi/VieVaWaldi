@@ -8,7 +8,7 @@ And open to work as an AI Solution Freelancer.
 
 Click here for more info:
 
-<a href="walterai.co" \>
+<a href="https://walterai.co">walterai.co</a>
 
 ### GitHub Stats
 
