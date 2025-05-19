@@ -10,7 +10,6 @@ Click here to play an FPS against an AI: <a href="https://walterai.co">walterai.
 
 ### GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VieVaWaldi&theme=highcontrast&show_icons=true)
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VieVaWaldi&hide_progress=true&theme=highcontrast)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VieVaWaldi&theme=highcontrast&show_icons=true)
