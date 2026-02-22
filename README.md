@@ -12,8 +12,8 @@ Click here to battle an AI in a FPS game: <a href="https://walterai.co">walterai
 
 ### GitHub Stats
 
-![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?](https://github-readme-stats-eight-theta.vercel.app/api?username=VieVaWaldi&hide_progress=true&bg_color=45,a4161a,36454f&title_color=ffffff&text_color=ffffff))
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api?username=VieVaWaldi&hide_progress=true&bg_color=45,a4161a,36454f&title_color=ffffff&text_color=ffffff)
 
-[![VieVaWaldi's GitHub stats](https://github-readme-stats.vercel.app/api?username=VieVaWaldi&show_icons=true&rank_icon=github&bg_color=45,a4161a,36454f&title_color=ffffff&text_color=ffffff&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![VieVaWaldi's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=VieVaWaldi&show_icons=true&rank_icon=github&bg_color=45,a4161a,36454f&title_color=ffffff&text_color=ffffff&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
