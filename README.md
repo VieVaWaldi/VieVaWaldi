@@ -8,7 +8,7 @@ Currently working as a researcher on scientometrics, understanding and analyzing
 
 <strong>Open to work </strong> as an AI Solution Freelancer.
 
-Click here to battle an AI in a FPS game: <a href="https://walterai.co">walterai.co</a>
+Click here to see the coolest deck.gl visuals, to battle a lobotomized AI or to see more of my projects: <a href="https://walterai.co">walterai.co</a>
 
 ### GitHub Stats
 
